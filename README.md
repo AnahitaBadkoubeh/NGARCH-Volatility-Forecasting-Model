@@ -57,7 +57,7 @@ yfinance
 
 1. Run the main script:
 ```python
-python Assignment_11.py
+python A Smiling GARCH.py
 ```
 
 2. The script will:
